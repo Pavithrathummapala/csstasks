@@ -12,12 +12,12 @@ div{
 	width:50px;
 	background-color: purple;
 }
-*{
+
 	font-size: 30px;
 	font-family: cursive;
 	color:green;
 
-}
+}*/
 input[type="text"]{
 	color:red;
 }
@@ -25,19 +25,20 @@ input[type="number"]{
 	color:green;
 }
 *a[href]{
-	background-color: purple;
+	background-color: red;
 }
 label{
 	color: orange;
 }
 img[src]{
 	border:5px solid red;
-}*/
+}
 div{
 	height:100px;
 	width:100px;
 	background-color: pink;
 }
+/*
 a:link{
 	color:brown;
 }
